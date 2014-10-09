@@ -1,33 +1,23 @@
-header {
-	padding: 10px 5px;
-  margin: 5px 5px;
-  border-top: 5px;
-  width: 1440px;
-  height: 718px;
+#principal {
+  background-size: 100%;
+  height: 740px;
   background-image: url("photo-top.jpg");
   font-size: 160px;
-  color: #fffaf0;
   text-align: center;
+  color: #F5F5DC;
 }
-#bigote {
-  position: relative;
-  bottom: 45em;
-  left: 2em;
-  font: serif;
-}
-#menu {
-  position: relative;
-  bottom: 45em;
-  left: 71em;
+button {
+  cursor: pointer;
 }
 #about {
-	padding: 10px 5px;
-  margin: 5px 45px;
-  border-top: 5px;
-  width: 1000px;
-  height: 50px;
+  margin-top: 25px;
+  margin-left: 55px;
+  width: 200px;
+  height: 45px;
   font-size: 18px;
   color: #000000;
+  border: 3px solid black;
+  border-radius: 30%;
   text-align: center;
 }
 #do {
@@ -42,7 +32,7 @@ header {
 }
 #barbas {
 	padding: 10px 5px;
-  margin: 100px 500px;
+  margin: 0 auto;
 }
 #merluza {
   position: relative;
@@ -50,9 +40,6 @@ header {
   bottom: 6em;
 }
 #work {
-  padding: 10px 5px;
-  margin: 0px 0px;
-  border-top: 5px solid white;
   width: 1000px;
   height: 0px;
   font-size: 20px;
@@ -62,10 +49,8 @@ header {
   bottom: 4em;
 }
 #montana {
-  padding: 10px 5px;
   margin: 5px 5px;
-  border-top: 5px solid white;
-  width: 1400px;
+  background-size: 100%;
   height: 718px;
   background-image: url("montana.jpg");
   font-size: 80px;
@@ -73,7 +58,6 @@ header {
   text-align: center;
 }
 #blog {
-  padding: 10px 5px;
   margin: 5px 45px;
   border-top: 5px;
   width: 1000px;
@@ -86,7 +70,6 @@ header {
   left: 2em;
 }
 #explore {
-  padding: 10px 5px;
   margin: 5px 45px;
   border-top: 5px;
   width: 1000px;
@@ -99,7 +82,6 @@ header {
   left: 2em;
 }
 #stalk {
-  padding: 10px 5px;
   margin: 5px 45px;
   border-top: 5px;
   width: 1000px;
@@ -113,7 +95,6 @@ header {
   font: Georgia;
 }
 footer {
-  padding: 0px 0px;
   margin: 50px 500px;
   position: relative;
   top: 20em;
