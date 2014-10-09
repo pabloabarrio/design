@@ -1,0 +1,120 @@
+header {
+	padding: 10px 5px;
+  margin: 5px 5px;
+  border-top: 5px;
+  width: 1440px;
+  height: 718px;
+  background-image: url("photo-top.jpg");
+  font-size: 160px;
+  color: #fffaf0;
+  text-align: center;
+}
+#bigote {
+  position: relative;
+  bottom: 45em;
+  left: 2em;
+  font: serif;
+}
+#menu {
+  position: relative;
+  bottom: 45em;
+  left: 71em;
+}
+#about {
+	padding: 10px 5px;
+  margin: 5px 45px;
+  border-top: 5px;
+  width: 1000px;
+  height: 50px;
+  font-size: 18px;
+  color: #000000;
+  text-align: center;
+}
+#do {
+	padding: 10px 5px;
+  margin: 150px 65px;
+  border-top: 5px;
+  width: 1000px;
+  height: 200px;
+  font-size: 120px;
+  color: #191970;
+  text-align: center;
+}
+#barbas {
+	padding: 10px 5px;
+  margin: 100px 500px;
+}
+#merluza {
+  position: relative;
+  left: 25em;
+  bottom: 6em;
+}
+#work {
+  padding: 10px 5px;
+  margin: 0px 0px;
+  border-top: 5px solid white;
+  width: 1000px;
+  height: 0px;
+  font-size: 20px;
+  color: #000000;
+  text-align: center;
+  position: relative;
+  bottom: 4em;
+}
+#montana {
+  padding: 10px 5px;
+  margin: 5px 5px;
+  border-top: 5px solid white;
+  width: 1400px;
+  height: 718px;
+  background-image: url("montana.jpg");
+  font-size: 80px;
+  color: #fffaf0;
+  text-align: center;
+}
+#blog {
+  padding: 10px 5px;
+  margin: 5px 45px;
+  border-top: 5px;
+  width: 1000px;
+  height: 50px;
+  font-size: 22px;
+  color: #ffffff;
+  text-align: center;
+  position: relative;
+  bottom: 8em;
+  left: 2em;
+}
+#explore {
+  padding: 10px 5px;
+  margin: 5px 45px;
+  border-top: 5px;
+  width: 1000px;
+  height: 130px;
+  font-size: 18px;
+  color: #000000;
+  text-align: center;
+  position: relative;
+  bottom: 2em;
+  left: 2em;
+}
+#stalk {
+  padding: 10px 5px;
+  margin: 5px 45px;
+  border-top: 5px;
+  width: 1000px;
+  height: 130px;
+  font-size: 18px;
+  color: #000000;
+  text-align: center;
+  position: relative;
+  top: 8em;
+  left: 2em;
+  font: Georgia;
+}
+footer {
+  padding: 0px 0px;
+  margin: 50px 500px;
+  position: relative;
+  top: 20em;
+}
